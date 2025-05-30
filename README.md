@@ -9,6 +9,7 @@ This is the first snRNA-seq analysis of LCHAD-deficient human myocardium, offeri
 The code for this snRNA sequencing study including dataset processing and downstream analyses is provided here.
 
 **Availability of data**
+
 Raw data and processed data are available at NIH GEO repositories:
 
 **How to cite**
