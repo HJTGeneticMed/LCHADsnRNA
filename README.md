@@ -10,6 +10,6 @@ The code for this snRNA sequencing study including dataset processing and downst
 
 **Availability of data**
 
-Raw data and processed data are available at NIH GEO repositories:
+Processed data are available at https://zenodo.org/records/18961130.
 
 **How to cite**
