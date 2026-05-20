@@ -13,3 +13,4 @@ The code for this snRNA sequencing study including dataset processing and downst
 Processed data are available at https://zenodo.org/records/18961130.
 
 **How to cite**
+Tadros HJ, Turaga D, Zhao Y, Tsai CR, Wadhwa L, Kearney DL, Adachi I, Li X, Martin JF. Single-Nuclei Transcriptomic Profiling of Human Myocardium in Long-Chain 3-Hydroxyacyl-Coenzyme A Dehydrogenase Deficiency. Circ Heart Fail. 2026 May;19(5):e014092. doi: 10.1161/CIRCHEARTFAILURE.125.014092. Epub 2026 Mar 31. PMID: 41914145; PMCID: PMC13107969.
